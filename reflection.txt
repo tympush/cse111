@@ -1,0 +1,29 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+I saw the power of functions a lot throughout the various assignments that we've had.
+But it all culminated with our final project, as it was the biggest program we've had 
+to write, using a lot of functions. It really showed me how useful functions are, and 
+how easier they make writing programs if you use them correctly.
+
+2. In your judgment, what is the value of test functions?
+
+Test functions allow you to test the functionality of various functions from your program.
+Test functions aren't ideal for all sorts of functions, but for those that can be tested, 
+test function are a great way to quickly and more easily test those functions.
+You can pass different parameters to test the program thoroughly, which is easier and faster 
+than running the program and manually performing different inputs.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+To troubleshoot, I usually first add temporary lines of code to my program to see a bit 
+more behind the scenes, like printing a list midway through a process. I may then try a 
+couple different things like play around with different inputs to find the exact issue.
+If the problem is large and severe, I will make a test function to conduct better testing.
+I'm not really in a habit of using the VSCode debugging feature, which is something that 
+I could improve.
+
